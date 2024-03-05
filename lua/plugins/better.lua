@@ -4,19 +4,19 @@ return {
     override = {
       js = {
         icon = "",
-        color = "#f3fc49",
+        color = "#f7e842",
         cterm_color = "65",
         name = "Js",
       },
       mjs = {
         icon = "",
-        color = "#f3fc49",
+        color = "#f7e842",
         cterm_color = "65",
         name = "Mjs",
       },
       cjs = {
         icon = "",
-        color = "#f3fc49",
+        color = "#f7e842",
         cterm_color = "65",
         name = "Cjs",
       },
