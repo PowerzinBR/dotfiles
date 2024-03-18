@@ -1,4 +1,5 @@
 return {
+	-- this is so weird (i need to format it)
 	{ "nvim-treesitter/playground", cmd = "TSPlaygroundToggle" },
 
 	{
