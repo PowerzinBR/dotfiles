@@ -1,6 +1,7 @@
 # 💤 LazyVim
 This is my setup based on Devaslife setup.
 This was inspired by him.
+Alternatives that mantain the current style of plain LazyVim: https://github.com/PowerzinBR/LazyVim
 
 ## VERSION SUPPORTED IS **0.9+**
 
