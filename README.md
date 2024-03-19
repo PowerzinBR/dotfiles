@@ -1,5 +1,6 @@
 # 💤 LazyVim
-This is my setup based on Devaslife setup.
+This is my setup based on Devaslife setup. <br />
+Please go check it out: https://github.com/craftzdog/dotfiles-public/tree/master/.config/nvim
 This was inspired by him.
 Alternatives that mantain the current style of plain LazyVim: https://github.com/PowerzinBR/LazyVim
 
