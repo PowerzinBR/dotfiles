@@ -1,5 +1,4 @@
 # 💤 LazyVim
-## 🚨 WARNING: Due to issues in Windows - plenary.nvim, telescope on Windows devices may be unusable 🚨
 This is my setup based on Devaslife setup. <br />
 Please go check it out: https://github.com/craftzdog/dotfiles-public/tree/master/.config/nvim <br />
 This was inspired by him.
